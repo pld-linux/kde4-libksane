@@ -1,16 +1,16 @@
 %define         _state          stable
 %define         orgname         libksane
-%define         qtver           4.8.0
+%define         qtver           4.8.1
 
 Summary:	libksane - picture metadata manipulation library
 Summary(pl.UTF-8):	libksane - biblioteka do obróbki metadanych obrazków
 Name:		kde4-libksane
-Version:	4.8.2
+Version:	4.8.3
 Release:	1
 License:	GPL v2+
 Group:		X11/Libraries
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	4053c4a050868dbce4673bc19b75157b
+# Source0-md5:	dd91b30a1f4d7bcf93b2d60ecaf18711
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel
 BuildRequires:	sane-backends-devel
