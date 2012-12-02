@@ -5,12 +5,12 @@
 Summary:	libksane - picture metadata manipulation library
 Summary(pl.UTF-8):	libksane - biblioteka do obróbki metadanych obrazków
 Name:		kde4-libksane
-Version:	4.9.3
+Version:	4.9.4
 Release:	1
 License:	GPL v2+
 Group:		X11/Libraries
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	0a5f9986b5bf5be9e42309f6cbf7ec2c
+# Source0-md5:	6a2b6af185e48be3a441916c4c975a68
 URL:		http://www.kde.org/
 BuildRequires:	kde4-kdelibs-devel
 BuildRequires:	sane-backends-devel
